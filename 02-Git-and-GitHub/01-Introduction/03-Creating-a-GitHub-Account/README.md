@@ -139,6 +139,8 @@ Enter your GitHub username or email address and password.
 You can now access your GitHub account.
 
 **Screenshot:** GitHub Login
+<img width="3730" height="1885" alt="image" src="https://github.com/user-attachments/assets/b526be63-a36c-4036-a5c1-dbc320fdb98e" />
+
 
 ---
 
@@ -179,7 +181,3 @@ Create your GitHub account and make sure:
 **Rushi**  
 **Lead DevOps Engineer & Cloud Trainer**
 
-For the **screenshots**, I recommend taking them yourself while recording the batch rather than embedding random internet screenshots. GitHub's UI can change, and your own screenshots will match exactly what students see during your lecture. The current official signup page confirms the fields and flow above. [GitHub](https://github.com/signup?previewmode=true\&utm_source=chatgpt.com)
-
-[GitHub Sign Up](https://github.com/signup?utm_source=chatgpt.com)  
-[GitHub Official Documentation – Creating an Account](https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github?utm_source=chatgpt.com)
