@@ -20,7 +20,8 @@ https://github.com/
 
 Click **Sign up** to create a new account.
 
-**Screenshot:** GitHub Home Page
+<img width="3735" height="2055" alt="image" src="https://github.com/user-attachments/assets/b839995c-a2cc-4e97-9c3a-641f949730f8" />
+
 
 ---
 
