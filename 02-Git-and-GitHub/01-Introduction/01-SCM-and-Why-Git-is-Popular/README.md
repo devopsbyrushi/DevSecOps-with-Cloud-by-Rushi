@@ -1,19 +1,3 @@
-01-What-is-SCM-and-Why-is-Git-So-Popular/
-└── README.md
-```
-
-Or, if you want it shorter:
-
-```text
-01-SCM-and-Why-Git-is-Popular/
-└── README.md
-```
-
-### Recommended: `01-SCM-and-Why-Git-is-Popular`
-
-For the README:
-
-```markdown
 # 01. SCM and Why Git is Popular
 
 ## What is SCM?
