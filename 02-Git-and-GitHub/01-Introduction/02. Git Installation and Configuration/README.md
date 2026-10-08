@@ -169,6 +169,3 @@ git config --list
 **Rushi**  
 **Lead DevOps Engineer & Cloud Trainer**
 ```
-
-**Section:** `02-Git-and-GitHub`  
-**Topic:** `02-Git-Installation-and-Configuration`
