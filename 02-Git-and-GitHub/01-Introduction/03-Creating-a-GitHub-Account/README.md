@@ -1,23 +1,3 @@
-Yes. I checked the **current GitHub signup flow**. GitHub currently asks for **Email, Password, Username, Country/Region**, followed by account verification, and GitHub requires a verified email for some basic actions such as creating repositories. [GitHub Docs](https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github?utm_source=chatgpt.com)
-
-For your course, I would make this a separate lecture:
-
-```text
-02-Git-and-GitHub/
-└── 03-Creating-a-GitHub-Account/
-    └── README.md
-```
-
-### `README.md`
-
-# DevSecOps with Cloud – By Rushi
-
-## Section 02: Git and GitHub
-
-### 03. Creating a GitHub Account
-
----
-
 ## 1. What is GitHub?
 
 GitHub is a cloud-based platform used to store Git repositories and collaborate with other developers.
