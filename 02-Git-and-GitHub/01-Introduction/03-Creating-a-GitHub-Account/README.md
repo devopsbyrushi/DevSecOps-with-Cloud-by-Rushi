@@ -30,7 +30,6 @@ Enter your email address.
 
 Click **Continue**.
 
-**Screenshot:** Email Registration
 
 ---
 
@@ -48,7 +47,7 @@ GitHub currently requires either:
 
 Click **Continue**.
 
-**Screenshot:** Password Creation
+
 
 ---
 
@@ -66,7 +65,6 @@ GitHub usernames can contain letters and numbers, with single hyphens allowed be
 
 Choose a professional username because your GitHub profile can be used as part of your professional portfolio.
 
-**Screenshot:** Username Selection
 
 ---
 
@@ -80,7 +78,6 @@ Example:
 India
 ```
 
-**Screenshot:** Country/Region Selection
 
 ---
 
@@ -90,7 +87,7 @@ GitHub may ask whether you want to receive product updates and announcements.
 
 Choose the option based on your preference.
 
-**Screenshot:** Email Preferences
+
 
 ---
 
@@ -100,7 +97,7 @@ GitHub will ask you to complete an account verification step.
 
 Complete the verification shown on the screen.
 
-**Screenshot:** Account Verification
+
 
 ---
 
@@ -112,7 +109,7 @@ After completing the required information and verification, click:
 
 Your GitHub account will be created.
 
-**Screenshot:** Create Account
+
 
 ---
 
@@ -124,7 +121,7 @@ Open the email and complete the verification process.
 
 A verified email is important because GitHub requires a verified email address for some basic activities, including creating a repository.
 
-**Screenshot:** Email Verification
+
 
 ---
 
@@ -156,19 +153,6 @@ After logging in, open your profile and check:
 
 Keep your GitHub profile professional because we will use it throughout the DevOps learning journey.
 
----
-
-## Practice
-
-Create your GitHub account and make sure:
-
-- [ ] GitHub account is created
-- [ ] Email is verified
-- [ ] Username is selected
-- [ ] You can login successfully
-- [ ] GitHub profile is accessible
-
----
 
 ## Key Point
 
